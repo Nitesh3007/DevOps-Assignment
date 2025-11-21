@@ -63,4 +63,4 @@ Terminate EC2 instance after completing the assignment.
 
 -   README.md
 -   system_report.sh
--   cron/systemd configs
+-   crontab.txt
